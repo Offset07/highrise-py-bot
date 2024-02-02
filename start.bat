@@ -1,7 +1,7 @@
 :: Added Title
-@echo OFF
+@echo ON
 title Highrise Bot By iHsein
 color 0a
-python run.py
+python main.py
 :: Adding Pause on end for errors to be Readable when it occurs.
 PAUSE
